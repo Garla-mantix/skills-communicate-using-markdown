@@ -2,6 +2,10 @@
 
 meaningful message
 
+- [ ] Understand
+- [ ] Do it
+- [ ] Learn
+
 ``` javascript
 var myVar = "Hello, world!";
 ```
